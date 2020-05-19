@@ -1,0 +1,42 @@
+husband.one
+{
+	font-family		: Times;
+	font-size		: 16px;
+	color			: blue;
+	display			: block;
+	text-align		: center;
+	background-color: steelblue;
+	margin-bottom	: 6px;
+	width			: 150px;
+	padding			: 20;
+	border			: double;
+	position		: absolute;
+	top				: 0px;
+	z-index			: 1;
+}
+
+husband.two
+{
+	font-family		: Times;
+	font-size		: 16px;
+	color			: blue;
+	display			: block;
+	text-align		: center;
+	background-color: maroon;
+	margin-bottom	: 6px;
+	width			: 150px;
+	padding			: 20;
+	border			: double;
+	position		: absolute;
+	top				: 40;
+	left			: 95;
+	z-index			: 0;
+}
+
+wife
+{
+	font-family	: Courier;
+	font-size 	: 11px;
+	color		: white;
+	display		: block;
+}
